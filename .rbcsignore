@@ -1,0 +1,17 @@
+# Excluding the following files
+# Basic directories
+**/.ipynb_checkpoints/
+**/__pycache__/
+**/.ccls-cache/
+**/.vscode/
+**/.env/
+**/.git/
+**/build/
+
+# Basic hidden files
+**/.gitignore
+**/.pyc
+
+# The ignore file itself
+**/.rbcsignore
+
